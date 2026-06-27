@@ -1,4 +1,4 @@
-# Olá, eu sou o Henrique Hermelino! 👋
+# Olá, eu sou Henrique Hermelino! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+constru%C3%A7%C3%A3o+%F0%9F%94%A8;Apaixonado+por+Python+%F0%9F%90%8D;Criando+projetos+do+zero+%F0%9F%9A%80" alt="Typing SVG" />
