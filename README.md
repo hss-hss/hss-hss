@@ -6,8 +6,6 @@
 
 ---
 
-## 💜 Olá, meu nome é Henrique Hermelino!
-
 - Aprendendo e evoluindo no desenvolvimento web com **Python** e **NextJs**
 - Gosto de transformar ideias em código funcional
 - Sempre em busca de novos desafios e projetos
@@ -45,5 +43,5 @@
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hss-hss&show_icons=true)
 
